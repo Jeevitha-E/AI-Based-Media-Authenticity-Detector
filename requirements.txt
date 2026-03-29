@@ -1,0 +1,11 @@
+streamlit
+numpy
+tensorflow
+torch
+torchvision
+timm
+opencv-python
+ultralytics
+librosa
+h5py
+Pillow
