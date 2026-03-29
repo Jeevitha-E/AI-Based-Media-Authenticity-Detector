@@ -61,4 +61,9 @@ streamlit run web/web_app.py
 
 -----------------------------
 
+## 👥 Team
+- Jeevitha E (@Jeevitha-E)
+- Kethciyal M (@Kethciyal M)
+- Muthumari T (@Muthumari385)
+
 
